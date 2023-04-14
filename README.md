@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Signal Processing, Real-time deployment of ML solutions
 - 🌱 I’m currently learning Self-Supervised Learning, MLOps, DVC
 - 💞️ I’m looking to collaborate on Instrumental Source Separation
-- 📫 How to reach me: [@Mr__Grieves on Twitter](https://twitter.com/Mr__Grieves)
+- 📫 E-mail: nathanvw3@gmail.com
 
 <!---
 Mr-Grieves/Mr-Grieves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
